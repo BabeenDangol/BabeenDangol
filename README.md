@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Babin Dangol</h1>
-<h3 align="center">A passionate frontenf</h3>
+<h3 align="center">A passionate App Developer</h3>
 
 - 🔭 I’m currently working on [Hissav](https://github.com/BabeenDangol/hissav_app)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **babindangol217@gmail.com**
 
-- ⚡ Fun fact **I think I am passionate tech enthusiast with a keen interest in gaming.A bcis degree holder with valuable knowledge and skills related to the world of information technology.**
+- ⚡ Fun fact **I think I am a passionate tech enthusiast with a keen interest in gaming.A bcis degree holder with valuable knowledge and skills related to the world of information technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
